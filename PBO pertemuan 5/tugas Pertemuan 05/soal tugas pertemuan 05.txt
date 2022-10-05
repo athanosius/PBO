@@ -1,0 +1,6 @@
+Buat program untuk menghitung luas segitiga dan luas lingkaran menggunakan OOP,
+dimana inputan dari keyboard.
+
+Tampilan, function bebas.
+
+bisa 1/2 class
